@@ -2,10 +2,10 @@ import React, { useState } from "react";
 import { motion, AnimatePresence } from "framer-motion";
 import { ShoppingCartIcon, XMarkIcon } from "@heroicons/react/24/outline";
 
-import toyImg from "../Assets/Toys/toy1.jpg";
-import carImg from "../Assets/Toys/car2.jpg";
-import blocksImg from "../Assets/Toys/blocks.webp";
-import dollsImg from "../Assets/Toys/doll.jpg";
+import toyImg from "../assets/Toys/toy1.jpg";
+import carImg from "../assets/Toys/car2.jpg";
+import blocksImg from "../assets/Toys/blocks.webp";
+import dollsImg from "../assets/Toys/doll.jpg";
 
 const toyProducts = [
   {
