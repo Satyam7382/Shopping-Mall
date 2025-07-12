@@ -2,14 +2,14 @@ import React from "react";
 import { useNavigate } from "react-router-dom";
 import { motion } from "framer-motion";
 import { ArrowRightIcon } from "@heroicons/react/24/outline";
-import summerImg from '../assets//summer.avif';
-import ElectroniImg from '../Assets/Electronic.avif';
-import kidsImg from '../Assets/kids.jpg';
-import foodImg from '../Assets/food.jpg';
-import fitnessImg from '../Assets/fitness.jpg';
-import homeImg from '../Assets/Home.png';
-import luxuryImg from '../Assets/luxury.jpg';
-import MovieImg from '../Assets/Movie.jpg';
+import summerImg from '../assets/summer.avif';
+import ElectroniImg from '../assets/Electronic.avif';
+import kidsImg from '../assets/kids.jpg';
+import foodImg from '../assets/food.jpg';
+import fitnessImg from '../assets/fitness.jpg';
+import homeImg from '../assets/Home.png';
+import luxuryImg from '../assets/luxury.jpg';
+import MovieImg from '../assets/Movie.jpg';
 
 const exploreItems = [
   {
