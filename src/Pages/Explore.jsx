@@ -2,8 +2,7 @@ import React from "react";
 import { useNavigate } from "react-router-dom";
 import { motion } from "framer-motion";
 import { ArrowRightIcon } from "@heroicons/react/24/outline";
-
-import summerImg from '../Assets/summer.avif';
+import summerImg from '../assets//summer.avif';
 import ElectroniImg from '../Assets/Electronic.avif';
 import kidsImg from '../Assets/kids.jpg';
 import foodImg from '../Assets/food.jpg';
