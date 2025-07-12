@@ -8,13 +8,13 @@ import {
   ArrowRightIcon,
 } from "@heroicons/react/24/outline";
 
-import zaraImg from "../Assets/Zara.webp";
-import starbucks from "../Assets/Starbucks.avif";
-import HMImg from "../Assets/Stores/H&M.png";
-import MCDImg from "../Assets/Stores/MCd.png";
-import sony from "../Assets/Stores/sony.jpg";
-import Costa from "../Assets/Stores/Costa.png";
-import levis from "../Assets/Stores/levis.png";
+import zaraImg from "../assets/Zara.webp";
+import starbucks from "../assets/Starbucks.avif";
+import HMImg from "../assets/Stores/H&M.png";
+import MCDImg from "../assets/Stores/MCd.png";
+import sony from "../assets/Stores/sony.jpg";
+import Costa from "../assets/Stores/Costa.png";
+import levis from "../assets/Stores/levis.png";
 
 const fallbackImage = "https://via.placeholder.com/150?text=Store+Image";
 
