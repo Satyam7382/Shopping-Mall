@@ -1,12 +1,13 @@
 // import React from "react";
 import { Link } from "react-router-dom";
 import { motion } from "framer-motion";
-import MALLSFImg from '../Assets/MALLSF.png';
-import zaraImg from "../Assets/Zara.webp";
-import AppleImg from "../Assets/Apple.jpg";
-import Starbucks from "../Assets/Starbucks.avif";
+import MALLSFImg from '../assets/MALLSF.png';
+import zaraImg from "../assets/Zara.webp";
+import AppleImg from "../assets/Apple.jpg";
+import Starbucks from "../assets/Starbucks.avif";
 
 const Home = () => {
+
   const stores = [
     {
       name: "Zara",
