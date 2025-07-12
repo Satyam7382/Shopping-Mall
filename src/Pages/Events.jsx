@@ -2,7 +2,7 @@ import React from "react";
 import { useNavigate } from "react-router-dom";
 import { motion } from "framer-motion";
 import { CalendarIcon, ClockIcon, MapPinIcon } from "@heroicons/react/24/outline";
-import kids from '../Assets/kids.jpeg';
+import kids from '../assets/kids.jpeg';
 
 // Placeholder images - replace these with your actual image imports
 const foodFest = "https://images.unsplash.com/photo-1504674900247-0877df9cc836?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=80";
